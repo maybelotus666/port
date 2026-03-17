@@ -1,0 +1,46 @@
+body {
+    background-color:pink;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+}
+
+.capa {
+    background-image: url("./imgs/a9ed821a3afb659df8ffdea43de9f9a9.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    width: 336px;
+    
+/* Tipografia */
+
+color: #FFF;
+text-align: right;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 1300px;
+height: 500px;
+
+
+}
+
+.text-box {
+    width: 442px;
+    height: 53px;
+    border-radius: 40px;
+    background: rgba(255, 226, 236, 0.40);
+   margin-left: 1300px;
+}
+
+h1::first-letter {
+   color: #FFF;
+  font-family: "Imperial Script";
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
